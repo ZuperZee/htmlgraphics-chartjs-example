@@ -1,6 +1,8 @@
-# Bundler
+# Chart.js example
 
-Bundler to make developing code easier and scalable.
+This is a simple example of how to use [Chart.js](https://www.chartjs.org/) with the [HTMLGraphics Grafana plugin](https://gapit-htmlgraphics-panel.gapit.io/).
+
+![Screenshot](./images/screenshot.png)
 
 ## Table of contents
 
