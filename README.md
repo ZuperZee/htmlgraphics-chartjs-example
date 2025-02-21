@@ -2,6 +2,8 @@
 
 This is a simple example of how to use [Chart.js](https://www.chartjs.org/) with the [HTMLGraphics Grafana plugin](https://gapit-htmlgraphics-panel.gapit.io/).
 
+Created for <https://github.com/gapitio/gapit-htmlgraphics-panel/issues/194>
+
 ![Screenshot](./images/screenshot.png)
 
 ## Table of contents
