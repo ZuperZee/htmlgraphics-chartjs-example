@@ -36,7 +36,7 @@ export const defaultPanelOptions = {
   renderOnMount: true,
   onRender: "",
   dynamicHtmlGraphics: false,
-  dynamicData: false,
+  dynamicData: true,
   dynamicFieldDisplayValues: false,
   dynamicProps: false,
   panelupdateOnMount: true,

@@ -21,7 +21,7 @@ export function createSeries(
         name: "Time",
         type: FieldType.time,
         config: {},
-        values: [],
+        values: [Date.now()],
         state: {
           displayName: undefined,
           scopedVars: {},
@@ -31,7 +31,7 @@ export function createSeries(
         name: "Value",
         type: FieldType.number,
         config: {},
-        values: [],
+        values: [value],
         state: {
           displayName: undefined,
           scopedVars: {},
